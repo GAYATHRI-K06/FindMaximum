@@ -59,12 +59,15 @@ def max_marks(marks_list):
 
 ```
 ## Sample Input and Output
- ![Alt text](<Screenshot 2023-12-25 085520.png>)
-![Alt text](<Screenshot 2023-12-25 085535.png>)
-![Alt text](<Screenshot 2023-12-25 085550.png>)
+ ![Screenshot 2023-12-25 085520](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/a931fb2b-2f08-465c-8ae4-3e92f6fcc10e)
+ ![Screenshot 2023-12-25 085535](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/2cd716b6-23a2-4bb6-b862-2b7905de07e4)
+ ![Screenshot 2023-12-25 085550](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/9d9036c4-610f-4aee-8fa6-4e63114285da)
+
+
 ## Output:
-![Alt text](<Screenshot 2023-12-25 002351.png>)
-![Alt text](<Screenshot 2023-12-25 002425.png>)
-![Alt text](<Screenshot 2023-12-25 002444.png>)
+![Screenshot 2023-12-25 002351](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/0a3b31c1-a30d-4e79-ac06-d9f0a0938bae)
+![Screenshot 2023-12-25 002425](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/04b9d446-9eff-44d6-a9c0-5b59b1826440)
+![Screenshot 2023-12-25 002425 - Copy](https://github.com/GAYATHRI-K06/FindMaximum/assets/145742742/b3f9f997-f981-406d-88df-d0042c856cdc)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
